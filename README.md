@@ -1,29 +1,5 @@
-# calculator
+# vue-calculator
 
-## Project setup
-```
-npm install
-```
+Réplica básica de la calculadora de iOS desarrollada en VueJS.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![image](https://i.imgur.com/ScIcQj5.png)
